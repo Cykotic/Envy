@@ -1,0 +1,18 @@
+{
+  "name": "gg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "child_process": "^1.0.2",
+    "node-fetch": "^2.6.1",
+    "telegraf": "^3.32.0"
+  }
+}
